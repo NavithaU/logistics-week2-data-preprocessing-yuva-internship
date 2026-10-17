@@ -1,0 +1,12 @@
+order_id,order_date,delivery_date,distance_km,delivery_time_hours,delivery_cost_inr,vehicle_type,delivery_status
+ORD001,2026-09-01,2026-09-03,10,48.0,100,Bike,Delivered
+ORD002,2026-09-02,2026-09-04,25,48.0,250,Van,Delivered
+ORD003,2026-09-03,2026-09-04,15,,150,Bike,Delivered
+ORD004,2026-09-04,2026-09-03,12,-24.0,120,Van,Delayed
+ORD005,2026-09-05,2026-09-08,40,72.0,400,Truck,Delivered
+ORD006,2026-09-06,2026-09-07,8,24.0,80,Bike,Delivered
+ORD007,2026-09-07,2026-09-10,60,72.0,600,Truck,Delayed
+ORD008,2026-09-08,2026-09-09,20,24.0,200,Van,Delivered
+ORD008,2026-09-08,2026-09-09,20,24.0,200,Van,Delivered
+ORD009,2026-09-09,2026-09-10,18,24.0,180,Bike,Delivered
+ORD010,2026-09-10,2026-09-11,500,240.0,5000,Truck,Delayed

@@ -1,0 +1,11 @@
+order_id,order_date,delivery_date,distance_km,delivery_time_hours,delivery_cost_inr,vehicle_type,delivery_status,date_order_valid,distance_km_outlier_flag,delivery_time_hours_outlier_flag,delivery_cost_inr_outlier_flag,distance_km_scaled,delivery_time_hours_scaled,delivery_cost_inr_scaled
+ORD001,2026-09-01,2026-09-03,10.0,48.0,100.0,Bike,Delivered,True,False,False,False,0.004065040650406505,0.1111111111111111,0.004065040650406505
+ORD002,2026-09-02,2026-09-04,25.0,48.0,250.0,Van,Delivered,True,False,False,False,0.03455284552845529,0.1111111111111111,0.034552845528455285
+ORD003,2026-09-03,2026-09-04,15.0,48.0,150.0,Bike,Delivered,True,False,False,False,0.014227642276422765,0.1111111111111111,0.014227642276422765
+ORD004,2026-09-04,2026-09-03,12.0,48.0,120.0,Van,Delayed,False,False,False,False,0.008130081300813007,0.1111111111111111,0.00813008130081301
+ORD005,2026-09-05,2026-09-08,40.0,72.0,400.0,Truck,Delivered,True,False,False,False,0.06504065040650407,0.2222222222222222,0.06504065040650406
+ORD006,2026-09-06,2026-09-07,8.0,24.0,80.0,Bike,Delivered,True,False,False,False,0.0,0.0,0.0
+ORD007,2026-09-07,2026-09-10,60.0,72.0,600.0,Truck,Delayed,True,False,False,False,0.10569105691056911,0.2222222222222222,0.1056910569105691
+ORD008,2026-09-08,2026-09-09,20.0,24.0,200.0,Van,Delivered,True,False,False,False,0.02439024390243903,0.0,0.024390243902439025
+ORD009,2026-09-09,2026-09-10,18.0,24.0,180.0,Bike,Delivered,True,False,False,False,0.020325203252032523,0.0,0.02032520325203252
+ORD010,2026-09-10,2026-09-11,500.0,240.0,5000.0,Truck,Delayed,True,True,True,True,1.0,1.0,1.0
